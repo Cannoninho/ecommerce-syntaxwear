@@ -29,6 +29,8 @@
 
 .nav-right img {
     height: 20px;
+    position: fixed;
+    top: 25px;
 }
 
 .nav-right a:hover img {
