@@ -1,6 +1,7 @@
 body {
     font-family: var(--font-principal);
     color: #333333;
+    background-color: azure;
 }
 
 main {
