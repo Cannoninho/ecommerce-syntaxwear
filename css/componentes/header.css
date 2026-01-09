@@ -133,3 +133,10 @@
         right: 0;
     }
 }
+
+@media (max-width: 768px) {
+    .header {
+        max-width: 342px;
+        min-width: 320px;
+    }
+}
